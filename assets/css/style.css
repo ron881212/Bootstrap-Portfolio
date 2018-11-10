@@ -38,6 +38,10 @@ button {
     color: whitesmoke;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
 .text {
     margin: 0;
     bottom: 0;
